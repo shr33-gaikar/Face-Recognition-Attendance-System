@@ -77,7 +77,7 @@ To run this application locally, follow these steps:
 +-----------------------------------------+
 ```
 
-## Author
+## Author 👤
 
 This project was developed by Shrikar Gaikar.
 

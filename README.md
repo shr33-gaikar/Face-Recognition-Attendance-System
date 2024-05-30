@@ -1,4 +1,4 @@
-# Attendance Management System
+# Face Recognition Attendance Management System
 
 ## Overview 📋
 

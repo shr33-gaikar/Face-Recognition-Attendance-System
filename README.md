@@ -2,7 +2,7 @@
 
 ## Overview 📋
 
-The Attendance Management System is a Python-based application designed to automate the process of recording attendance using facial recognition technology. It captures real-time images through the webcam, detects faces, matches them with registered users, and records their attendance along with timestamps.
+The Face Recognition Attendance Management System is a Python-based application designed to automate the process of recording attendance using facial recognition technology. It captures real-time images through the webcam, detects faces, matches them with registered users, and records their attendance along with timestamps.
 
 ## Features 🚀
 

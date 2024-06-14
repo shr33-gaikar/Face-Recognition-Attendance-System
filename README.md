@@ -79,7 +79,7 @@ To run this application locally, follow these steps:
 
 ## Author 👤
 
-This project was developed by Shrikar Gaikar.
+This project was developed by [Shr33 Gaikar](https://github.com/shr33-gaikar).
 
 ## License 📄
 

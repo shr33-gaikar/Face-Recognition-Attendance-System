@@ -1,4 +1,4 @@
-# Face Recognition Attendance Management System
+# FaceAttend - Face Recognition Attendance System
 
 ## Overview 📋
 
